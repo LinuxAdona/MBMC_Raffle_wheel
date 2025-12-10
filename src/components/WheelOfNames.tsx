@@ -82,7 +82,7 @@ const WheelOfNames: React.FC<WheelOfNamesProps> = ({
       ctx.rotate(startAngle + anglePerSegment / 2);
       ctx.textAlign = "center";
       ctx.fillStyle = "#ffffff";
-      ctx.font = "bold 36px Arial";
+      ctx.font = "bold 16px Arial";
       ctx.shadowColor = "rgba(0, 0, 0, 0.5)";
       ctx.shadowBlur = 4;
       ctx.shadowOffsetX = 2;
@@ -237,10 +237,10 @@ const WheelOfNames: React.FC<WheelOfNamesProps> = ({
       <div className="relative shrink-0">
         <canvas
           ref={canvasRef}
-          width={1000}
-          height={1000}
+          width={1500}
+          height={1500}
           className="drop-shadow-2xl max-w-full h-auto"
-          style={{ maxHeight: "60vh", width: "auto" }}
+          style={{ maxHeight: "70vh", width: "auto" }}
         />
       </div>
 

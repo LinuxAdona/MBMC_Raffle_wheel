@@ -55,14 +55,8 @@ const App = () => {
         {/* Header */}
         <div className="text-center py-4">
           <h1 className="text-5xl font-bold text-white mb-2 drop-shadow-lg">
-            Wheel of Names
+            MBMC RAFFLE 2025
           </h1>
-          <p className="text-white text-lg opacity-90">
-            Add participants and spin to pick a random winner!
-          </p>
-          <p className="text-white text-sm opacity-75 mt-2">
-            Use Ctrl+Alt+1-9 to switch between sets
-          </p>
         </div>
         <div className="flex-1 flex flex-col items-center justify-center px-4">
           <WheelOfNames
