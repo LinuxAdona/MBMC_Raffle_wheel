@@ -19,3 +19,8 @@ The excel file should have header columns named as "Set N" Ex: Set 1, Set 2, Set
 | ----------- | :-------: | ---------: |
 | John Doe    | Doe John  | Johnny Doe |
 | Johnson Doe | Donny Joe |  James Doe |
+
+### Set Selection
+
+To select each set, the keyboard hotkey is (Ctrl + Alt + N).
+Ex: Set 3 -> Ctrl + Alt + 3
