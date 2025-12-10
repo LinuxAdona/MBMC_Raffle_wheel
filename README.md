@@ -10,3 +10,12 @@ PS C:\Users\DELL\Downloads\MBMC_Raffle_wheel> npm run dev
 ```
 
 2. Open the localhost link from vite.
+
+### Excel Setup
+
+The excel file should have header columns named as "Set N" Ex: Set 1, Set 2, Set 3, ...
+
+| Set 1       |   Set 2   |      Set 3 |
+| ----------- | :-------: | ---------: |
+| John Doe    | Doe John  | Johnny Doe |
+| Johnson Doe | Donny Joe |  James Doe |
